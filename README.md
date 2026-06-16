@@ -137,3 +137,21 @@ Through this project I strengthened my ability to:
 📖 Data Storytelling
 
 🚀 Business Intelligence Insights
+
+## 🌐 Explore My Tableau Portfolio
+
+Discover my collection of interactive Tableau dashboards, featuring projects in **Global Health**, **Spotify Analytics**, and other data visualisation challenges completed during my Data Technician Bootcamp.
+
+<p align="center">
+
+<a href="https://public.tableau.com/app/profile/driheli.nunes/vizzes" target="_blank">
+  <img src="https://img.shields.io/badge/View%20My-Tableau%20Portfolio-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</a>
+
+</p>
+
+📊 **Tableau Public Profile:**
+https://public.tableau.com/app/profile/driheli.nunes/vizzes
+
+> 💡 Click the button above to explore my interactive dashboards and data visualisations.
+
