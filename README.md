@@ -1,24 +1,98 @@
-# 📊 Tableau Data Analysis Project
+# 📊 Tableau Data Visualisation Portfolio
 
-## 🚀 Project Overview
+<p align="center">
 
-This Tableau project was completed as part of a **Data Technician Bootcamp** and demonstrates the use of data visualisation and storytelling techniques to analyse real-world datasets.
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Data%20Visualisation-Interactive-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Data%20Storytelling-Insights-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Dashboards-Analytics-orange?style=for-the-badge">
 
-The project focuses on transforming raw data into meaningful insights through interactive dashboards, filters, calculated fields, and a variety of visualisations that support data-driven decision-making.
+</p>
 
 ---
+
+# 📖 Project Overview
+
+This repository showcases Tableau projects completed during my **Data Technician Bootcamp** and through independent practice.
+
+The projects focus on transforming raw datasets into **interactive dashboards** that communicate meaningful insights using visual analytics, calculated fields, filters, and data storytelling.
+
+---
+
+# 🛠️ Skills Demonstrated
+
+* 📊 Interactive Dashboards
+* 🎛️ Dashboard Filters
+* 🔍 Interactive Slicers
+* 🧮 Calculated Fields
+* 📈 Bar Charts
+* 📉 Line Charts
+* 🥧 Pie Charts
+* 🗺️ Geographic Maps
+* ⚫ Scatter Plots
+* 📚 Data Storytelling
+* 📊 Trend Analysis
+* 🌍 Business & Health Analytics
+
+---
+
+# 🌍 Project 1 — Global Health Dashboard
+
+## 📖 Overview
+
+This interactive dashboard analyses global health trends using the Gapminder dataset. It explores life expectancy, BMI, population distribution, and regional differences to help identify patterns that support better decision-making in public health.
+
+### ✨ Dashboard Features
+
+* 🌍 Life Expectancy by Continent
+* 📈 Top 5 Countries Life Expectancy Trend
+* 🥧 Population Distribution by Gender
+* ⚫ BMI vs Life Expectancy Scatter Plot
+* 📊 Additional Health Visualisation
+* 🎛️ Interactive Country Filter
+
+### 🛠️ Skills Demonstrated
+
+* Dashboard Design
+* Interactive Filters
+* Calculated Fields
+* Bar Charts
+* Line Charts
+* Pie Charts
+* Scatter Plots
+* Data Storytelling
+---
 ### 📸 Project Screenshots
-
-### 🌍 Global Health Dashboard
-
-This interactive Tableau dashboard explores key global health indicators, including **life expectancy**, **population distribution**, and the relationship between **BMI and life expectancy** across different countries and continents. Interactive filters allow users to explore health trends and compare data, transforming complex datasets into clear, actionable insights through effective data storytelling.
 
 <img width="767" height="427" alt="image" src="https://github.com/user-attachments/assets/d9f4dec0-fbe5-4061-9419-7f0f58b00a81" />
 
 ---
-## 🎵 Spotify Track Analysis Dashboard
 
-This interactive Tableau dashboard explores how different audio features influence song popularity using the Spotify dataset. The project combines multiple visualisations to identify trends and relationships between musical characteristics, helping transform raw data into meaningful insights.
+# 🎵 Project 2 — Spotify Track Analysis
+
+## 📖 Overview
+
+This Tableau dashboard explores Spotify track data to identify the characteristics associated with popular songs. The analysis investigates relationships between popularity and audio features such as danceability, energy, acousticness, tempo, and musical mood.
+
+### ✨ Dashboard Features
+
+* 🎵 Popularity by Genre
+* 💃 Danceability vs Popularity
+* ⚡ Energy vs Popularity
+* 🎼 Acousticness vs Popularity
+* ⏱️ Tempo Distribution
+* 😊 Valence (Mood) Analysis
+
+### 🛠️ Skills Demonstrated
+
+* Scatter Plots
+* Histograms
+* Ranked Bar Charts
+* Interactive Filters
+* Trend Analysis
+* Data Storytelling
+---
+## 📸 Dashboard Screenshots
 
 <img width="822" height="417" alt="image" src="https://github.com/user-attachments/assets/6eae26cf-6a8d-44db-9dd2-2d857dee6493" />
 
@@ -33,70 +107,6 @@ This interactive Tableau dashboard explores how different audio features influen
 <img width="827" height="427" alt="image" src="https://github.com/user-attachments/assets/b70141f8-2bb1-410c-a29b-495fbb98787e" />
 
 
-## 🎯 Skills Demonstrated
-
-### 📈 Dashboard Development
-
-* Created interactive Tableau dashboards
-* Designed user-friendly layouts for data exploration
-* Published dashboards to Tableau Public
-
-### 🎛️ Interactive Features
-
-* Filters and dropdown selectors
-* Dashboard actions
-* Dynamic user interaction
-* Cross-filtering between visualisations
-
-### 🧮 Data Analysis
-
-* Calculated Fields
-* Data aggregation and summarisation
-* Trend analysis
-* Comparative analysis
-
-### 📊 Visualisations Created
-
-* Bar Charts
-* Line Charts
-* Pie Charts
-* Scatter Plots
-* Geographic Maps
-* KPI Visualisations
-
----
-
-## 📂 Datasets Analysed
-
-### 🌍 Global Health Analysis
-
-* Life expectancy by continent
-* Population distribution analysis
-* BMI versus life expectancy comparisons
-* Health trends over time
-
-### 🛒 Retail & Sales Analysis
-
-* Sales performance reporting
-* Customer behaviour analysis
-* Trend identification
-* Business insights through dashboard visualisation
-
----
-
-## 📖 Data Storytelling
-
-A key focus of this project was using visual analytics to tell a clear story with data.
-
-By combining interactive charts, filters, and dashboards, users can:
-
-* Explore trends over time
-* Compare performance across categories
-* Identify patterns and outliers
-* Make informed business decisions
-
----
-
 ## 🛠️ Tools Used
 
 * Tableau Public
@@ -108,35 +118,16 @@ By combining interactive charts, filters, and dashboards, users can:
 
 ---
 
-## 🌟 Learning Outcomes
+# 📚 What I Learned
 
-Through this project I strengthened my ability to:
+Throughout these projects I developed practical experience in:
 
-✅ Build professional dashboards
-
-✅ Create interactive visualisations
-
-✅ Analyse complex datasets
-
-✅ Communicate insights through data storytelling
-
-✅ Transform business data into actionable insights
-
----
-
-### 📸 Dashboard Highlights
-
-📊 Interactive Dashboards
-
-📈 Trend Analysis
-
-🗺️ Geographic Visualisations
-
-🎛️ Dynamic Filters & Controls
-
-📖 Data Storytelling
-
-🚀 Business Intelligence Insights
+* Building interactive dashboards
+* Creating effective visualisations
+* Applying filters and calculated fields
+* Analysing trends and relationships
+* Transforming raw data into actionable insights
+* Communicating findings through data storytelling
 
 ## 🌐 Explore My Tableau Portfolio
 
@@ -155,3 +146,13 @@ https://public.tableau.com/app/profile/driheli.nunes/vizzes
 
 > 💡 Click the button above to explore my interactive dashboards and data visualisations.
 
+
+---
+
+## 👩‍💻 Author
+
+**Driheli Nunes**
+
+Data Technician Bootcamp Graduate | Continuously developing my skills through self-study and personal data analytics projects.
+
+⭐ If you enjoyed these projects, feel free to explore my other repositories!
